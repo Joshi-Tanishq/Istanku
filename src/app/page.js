@@ -137,9 +137,9 @@ export default function Home() {
                       <i className="fas fa-quote-left"></i>
                     </div>
                     <p>
-                      "Istanku helped us find the perfect CTO for our startup. Their understanding of both 
+                      &ldquo;Istanku helped us find the perfect CTO for our startup. Their understanding of both 
                       technical requirements and cultural fit was exceptional. The entire process was smooth 
-                      and professional."
+                      and professional.&rdquo;
                     </p>
                   </div>
                   <div className="testimonial-author">
@@ -161,9 +161,9 @@ export default function Home() {
                       <i className="fas fa-quote-left"></i>
                     </div>
                     <p>
-                      "After months of searching, Istanku found me the ideal role that matched both my skills 
+                      &ldquo;After months of searching, Istanku found me the ideal role that matched both my skills 
                       and career aspirations. Their personalized approach and industry expertise made all 
-                      the difference."
+                      the difference.&rdquo;
                     </p>
                   </div>
                   <div className="testimonial-author">
@@ -185,8 +185,8 @@ export default function Home() {
                       <i className="fas fa-quote-left"></i>
                     </div>
                     <p>
-                      "Working with Istanku has been a game-changer for our hiring process. They consistently 
-                      deliver high-quality candidates and have become our trusted recruitment partner."
+                      &ldquo;Working with Istanku has been a game-changer for our hiring process. They consistently 
+                      deliver high-quality candidates and have become our trusted recruitment partner.&rdquo;
                     </p>
                   </div>
                   <div className="testimonial-author">
@@ -208,8 +208,8 @@ export default function Home() {
                       <i className="fas fa-quote-left"></i>
                     </div>
                     <p>
-                      "Istanku's market intelligence and salary benchmarking helped us structure competitive 
-                      offers and build our dream team. Their expertise in the finance sector is unmatched."
+                      &ldquo;Istanku&rsquo;s market intelligence and salary benchmarking helped us structure competitive 
+                      offers and build our dream team. Their expertise in the finance sector is unmatched.&rdquo;
                     </p>
                   </div>
                   <div className="testimonial-author">
@@ -290,7 +290,7 @@ export default function Home() {
               </div>
               <div className="form-group">
                 <select required>
-                  <option value="">I'm looking for...</option>
+                  <option value="">I&rsquo;m looking for...</option>
                   <option value="hiring">Hiring Solutions</option>
                   <option value="job">Job Opportunities</option>
                   <option value="consultation">Consultation</option>
